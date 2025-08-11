@@ -24,19 +24,17 @@ Soldering and assembling PCBs
 Familiarity with various fabrication techniques such as SMT and through-hole assembly
 # Pictures
 # Here are the pictures of my previous PCB design and fabrication work:
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8195db8b-b038-41a2-b2d7-33aa4f26d33c" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6ab0bc69-edc0-4dd7-b464-05a53f206937" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bcc4dcaa-85b5-4fb2-82b9-23b7a7dc81fd" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d3583d16-608d-4d07-b6d0-8f1a6b1b1c97" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff1417ad-73f9-462b-a644-fc5f309328a8" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1402e844-055b-47d8-bc4e-7879bcd4b6dd" />
-<img width="5000" height="5000" alt="image" src="https://github.com/user-attachments/assets/e7f6ee96-bf0a-4f16-bb34-d5c0d1c29afa" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5b8264b0-0fff-47b5-bced-e7fc02378477" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/77016cfa-6ef0-4816-999b-736a4dfde1b6" />
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/d38d9921-ba88-4f9c-ba79-627056652710" />
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/f380b068-441f-4d72-948c-64958620ab7b" />
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d803b580-3511-4256-8167-226f96b96c4e" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/68c10ca3-8c67-440c-bffc-f6e3894ea58a" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e0e882de-858d-41e5-bc6e-e0200fe1d357" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba9b0a8a-5757-4877-a432-2ca0bc5feb15" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f25f8d4-1c23-4d36-8520-07cf9daf5d7f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/47a3f7e7-e3e0-4ccb-86a7-ed312e8fd55e" />
+<img width="5000" height="5000" alt="image" src="https://github.com/user-attachments/assets/a7d5b022-1f0a-4fa5-a8b8-9f861255e6ad" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/08137a39-a978-451c-afda-24d2abd3dabe" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4c3f1a44-01d0-4ff2-9efb-ac4b9726cbde" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/654a14bd-6a71-4ccf-94da-88dade463f1d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fb75bc94-06e6-4b23-b435-fae438608fbe" />
 
 # Contact
 If you are interested in my services for your next PCB design and fabrication project, please feel free to contact me.
