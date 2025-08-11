@@ -30,7 +30,7 @@ Familiarity with various fabrication techniques such as SMT and through-hole ass
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba9b0a8a-5757-4877-a432-2ca0bc5feb15" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5f25f8d4-1c23-4d36-8520-07cf9daf5d7f" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/47a3f7e7-e3e0-4ccb-86a7-ed312e8fd55e" />
-<img width="5000" height="5000" alt="image" src="https://github.com/user-attachments/assets/ecea767a-5bf6-4a5d-bed9-6584874e03a5" />
+<img width="5000" height="5000" alt="image" src="https://github.com/user-attachments/assets/a94248c3-ce52-4200-abb2-cd0e26ca21f6" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/08137a39-a978-451c-afda-24d2abd3dabe" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4c3f1a44-01d0-4ff2-9efb-ac4b9726cbde" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/654a14bd-6a71-4ccf-94da-88dade463f1d" />
